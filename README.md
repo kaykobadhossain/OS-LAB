@@ -1,1 +1,1 @@
-echo # OS-LAB
+# OS-LAB
